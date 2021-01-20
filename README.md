@@ -8,3 +8,5 @@ $ git clone https://github.com/DiabloTheDev/whatsapp-spammer
 $ pip install -r requirements.txt
 $ python spam.py
 ```
+# Author
+- [Diablo](https://discord.bio/p/diablo)
