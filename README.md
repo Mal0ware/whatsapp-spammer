@@ -9,4 +9,4 @@ $ pip install -r requirements.txt
 $ python spam.py
 ```
 # Author
-- [Mal0ware](https://discord.bio/p/diablo)
+- [VaasTheDev](https://discord.bio/p/diablo)
