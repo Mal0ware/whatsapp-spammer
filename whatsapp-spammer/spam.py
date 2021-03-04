@@ -8,4 +8,4 @@ while True: # while True = loop
     pyautogui.typewrite("Your message here")
     pyautogui.press("enter")
     
-# https://github.com/DiabloTheDev
+# https://github.com/PapiVaas
